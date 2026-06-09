@@ -1,68 +1,90 @@
 coordenacao-geral:
-    - Guilherme Galante (Unioeste)
-    - Fauzi de Moraes Shubeita (SETREM)
-    - Arthur Francisco Lorenzon (UFRGS)
+    - Guilherme Piêgas Koslovski (UDESC)
+    - Odorico Machado Mendizabal (UFSC)
+    - Rodrigo da Rosa Righi (UNISINOS)
 
+coordenacao-local:
+    - Maurício Aronne Pillon (UDESC)
+    - Ricardo J. Pfitscher (UFSC)
+    
 coordenacao-pg:
-    - Marco Z. Alves (UFPR)
-    - Dalvan Griebler (PUC-RS)
+    - Charles Christian Miers (UDESC)
+    - Lucas Schnorr (UFRGS)
 
 coordenacao-ic:
-    - Daniel F. Pigatto (UTFPR)
-    - Fabio Rossi (IF-Farroupilha)
+    - Gerson Geraldo H. Cavalheiro (UFPEL)
+    - Vinicius Garcia Pinto (FURG)
 
 coordenacao-minicursos:
-    - Lucas M. Schnorr (UFRGS)
-    - Guilherme P. Koslovski (UDESC)
+    - Eduardo Camilo Inacio (UFSC)
+    - Guilherme Galante (UNIOESTE)
 
 coordenacao-maratona:
     - Calebe Bianchini (Mackenzie)
-    - Matheus Serpa (UFRGS)
-
-#coordenacao-painel:
-#    - César De Rose (PUC-RS)
-#    - Adenauer Yamin (UCPEL/UFPEL)
+    - Matheus Serpa (Scherm)
 
 whpc:
-    - Marcia Pasin (UFSM)
+    - TBD
 
 equipe-local:
-    - Antonio Marcos Hashisuca (UNIOESTE)
-    - Maria Lucia Honorio dos Santos (UNIOESTE)
+    - TBD
+    - TBD
 
 comite-ic:
-    - Carlos A. Maziero (UFPR)
-    - Carlos Rolim (UFRGS)
-    - Claudio Geyer (UFRGS)
-    - Gerson Geraldo H. Cavalheiro (UFPEL)
-    - Luis Carlos Erpen De Bona (UFPR)
-    - Matheus S. Serpa (UFRGS)
-    - Odorico M. Mendizabal (UFSC)
-    - Patricia Della Méa Plentz (UFSC)
-    - Philippe Olivier Alexandre Navaux (UFRGS)
-    - Ricardo Jose Pfitscher (UFSC)
-    - Rodrigo da Rosa Righi (Unisinos)
-    - Vinicius Garcia Pinto (FURG)
+    - Adriano Vogel - Pontifícia Universidade Católica do Rio Grande do Sul
+    - Ana Cristina B. Kochem Vendramin - Universidade Tecnológica Federal do Paraná
+    - Andre Rauber Du Bois - Universidade Federal de Pelotas
+    - Andriele Busatto do Carmo - Universidade do Vale do Rio Dos Sinos
+    - Arthur Francisco Lorenzon - Universidade Federal do Rio Grande do Sul
+    - Carlos Moratelli - Universidade Federal de Santa Catarina
+    - Claudio Geyer - Universidade Federal do Rio Grande do Sul
+    - Claudio Schepke - Universidade Federal do Pampa
+    - Dalvan Griebler - Pontifícia Universidade Católica do Rio Grande do Sul
+    - Eduardo Camilo Inacio - Universidade Federal de Santa Catarina
+    - Gabriel Luca Nazar - Federal University of Rio Grande do Sul
+    - Gerson Geraldo H. Cavalheiro - Universidade Federal de Pelotas
+    - Guilherme Galante - Universidade Estadual do Oeste do Paraná
+    - Guilherme Piêgas Koslovski - Universidade do Estado de Santa Catarina
+    - Hylson Vescovi Netto - Instituto Federal Catarinense
+    - João Vicente Ferreira Lima - Universidade Federal de Santa Maria
+    - Leonardo Pinho - Universidade Federal do Pampa
+    - Lucas Mello Schnorr - Universidade Federal do Rio Grande do Sul
+    - Luis Carlos Erpen de Bona - Federal University of Parana
+    - Marcia Pasin - Universidade Federal de Santa Maria
+    - Márcio Castro - Federal University of Santa Catarina
+    - Marco A. Zanata Alves - Universidade Federal do Paraná
+    - Odorico M. Mendizabal - Universidade Federal de Santa Catarina
+    - Patricia Pitthan Barcelos - Universidade Federal de Santa Maria
+    - Philippe Olivier Alexandre Navaux - Universidade Federal do Rio Grande do Sul
+    - Rafael R. Obelheiro - Universidade do Estado de Santa Catarina
+    - Samuel Da Silva Feitosa - Universidade Federal Da Fronteira Sul
+    - Tiago Coelho Ferreto - Pontifícia Universidade Católica do Rio Grande do Sul
+    - Vinicius Garcia Pinto - Universidade Federal do Rio Grande
 
 comite-pg:
-    - Adenauer Yamin (UCPEL e UFPEL)
-    - Andre Martinotto (UCS)
-    - Arthur Francisco Lorenzon (UFRGS)
-    - Charles Christian Miers (UDESC)
-    - Daniel Alfonso Gonçalves d Oliveira (UFPR)
-    - Edson Luiz Padoin (UNIJUI)
-    - Gerson Geraldo H. Cavalheiro (UFPEL)
-    - Guilherme Galante (UNIOESTE)
-    - Guilherme P. Koslovski (UDESC)
-    - João Vicente Ferreira Lima (UFSM)
-    - Marcio Oyamada (UNIOESTE)
-    - Marco A. Zanata Alves (UFPR)
-    - Mateus Beck Rutzig (UFSM)
-    - Márcio Castro (UFSC)
-    - Odorico M. Mendizabal (UFSC)
-    - Philippe Olivier Alexandre Navaux (UFRGS)
-    - Rodrigo da Rosa Righi (Unisinos)
-    - Samuel Da Silva Feitosa (UFFS)
-    - Simone Dominico (UFPR)
-    - Tiago Coelho Ferreto (PUCRS)
-    - Wagner Machado Nunan Zola (UFPR)
+    - Adenauer Yamin - Universidade Federal de Pelotas
+    - Andre Martinotto - Universidade de Caxias do Sul
+    - Arthur Francisco Lorenzon - Universidade Federal do Rio Grande do Sul
+    - Charles Christian Miers - Universidade do Estado de Santa Catarina
+    - Claudio Schepke - Universidade Federal do Pampa
+    - Daniel Alfonso Gonçalves de Oliveira - Universidade Federal do Paraná
+    - Edson Luiz Padoin - Universidade Regional do Noroeste do Estado do Rio Grande do Sul
+    - Gabriel Freytag - Universidade Federal do Rio Grande do Sul
+    - Gerson Geraldo H. Cavalheiro - Universidade Federal de Pelotas
+    - Guilherme Galante - Universidade Estadual do Oeste do Paraná
+    - Guilherme Piêgas Koslovski - Universidade do Estado de Santa Catarina
+    - João Vicente Ferreira Lima - Universidade Federal de Santa Maria
+    - Leonardo Pinho - Universidade Federal do Pampa
+    - Lucas Mello Schnorr - Universidade Federal do Rio Grande do Sul
+    - Márcio Castro - Federal University of Santa Catarina
+    - Marcio Oyamada - Universidade Estadual do Oeste do Paraná
+    - Marco A. Zanata Alves - Universidade Federal do Paraná
+    - Mateus Beck Rutzig - Federal University of Santa Maria
+    - Odorico M. Mendizabal - Universidade Federal de Santa Catarina
+    - Philippe Olivier Alexandre Navaux - Universidade Federal do Rio Grande do Sul
+    - Rodrigo Da Rosa Righi - Universidade do Vale do Rio dos Sinos
+    - Sandro Da Silva Camargo - Universidade Federal do Pampa
+    - Simone dominico - Universidade Federal do Paraná
+    - Tiago Coelho Ferreto - Pontifícia Universidade Católica do Rio Grande do Sul
+    - Vinicius Garcia Pinto - Universidade Federal do Rio Grande
+    - Wagner M. Nunan Zola - Universidade Federal do Paraná
