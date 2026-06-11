@@ -1,71 +1,21 @@
 keynotes:
   - id: P1
-    date: "23/04 (16:30 - 17:25) — Auditório"
-    name: "Palestra WIA"
-    title: "Transformando a Cardiologia com Inteligência Artificial: Imagens, sinais, monitoramento remoto e integração de dados ômicos para modelos preditivos"
-    abstract: "A aplicação de Inteligência Artificial (IA) na Cardiologia tem revolucionado o diagnóstico, prognóstico e monitoramento de doenças cardiovasculares, uma das principais causas de mortalidade global. Essa palestra abordará como técnicas avançadas de aprendizado profundo, modelos generativos e aprendizado auto-supervisionado vêm sendo aplicadas na análise de ECGs digitalizados, imagens médicas multimodais e dados fisiológicos contínuos para detecção de arritmias e predição de desfechos clínicos. Além disso, discutiremos desafios computacionais associados à fusão de dados heterogêneos, incluindo sinais biomédicos, exames de imagem e dados ômicos (genômica, proteômica, metabolômica), e como a computação de alto desempenho (HPC) e arquiteturas especializadas, como GPUs e aceleradores neuromórficos, podem viabilizar modelos preditivos de alta precisão em larga escala."
+    date: "TBD"
+    name: "Palestra 1"
+    title: "TBD"
+    abstract: "TBD"
     speaker:
-      name: "Marco Antonio Gutierrez"
-      bio: "- Graduado em Engenharia Elétrica (1985), com especialização em Ciências da Computação (1985) e doutorado em Engenharia Elétrica (1995), todos pela Universidade de São Paulo (USP). Foi pesquisador visitante no Image Science Institute, Utrecht University (1996), e no Image Processing and Informatics Lab, University of Southern California, Estados Unidos (2006-2007). É Diretor do Serviço de Informática e do Laboratório de Informática Biomédica do Instituto do Coraçãor HC-FMUSP, Professor Associado (Livre-docente) na Faculdade de Medicina da USP e Membro (2020) da International Academy of Health Sciences Informatics (IAHSI). Possui mais de 30 anos de experiência em Engenharia e Informática Biomédica, com foco em processamento de sinais biológicos e imagens médicas."
-      photo: "marco_gutierrez.png"
+      name: "Andrea Schwertner Charão"
+      bio: "- Possui doutorado em Informatique: Systèmes et Communications pelo Institut National Polytechnique de Grenoble (INPG), na França (2001), mestrado em Ciência da Computação pela Universidade Federal do Rio Grande do Sul (1996) e graduação em Informática (Bacharelado) pela Universidade Federal de Santa Maria (1993). Foi coordenadora do Curso de Bacharelado em CIência da Computação da Universidade Federal de Santa Maria, de 2013 a 2015, e tutora do grupo PET (Programa de Educação Tutorial) deste mesmo curso, de 2007 a 2010. Atualmente, exerce suas atividades docentes nos Cursos de Ciência da Computação e Sistemas de Informação (Bacharelado) e no Programa de Pós-Graduação em Ciência da Computação (Mestrado em Ciência da Computação). Tem experiência na área de Ciência da Computação, com ênfase em Sistemas de Computação, atuando principalmente nos seguintes temas: processamento de alto desempenho, programação paralela, aplicações paralelas e distribuídas, e educação em Computação."
+      photo: "equipe-Andrea-Schwertner-Charao.png"
   
   - id: P2
-    date: "23/04 (17:30 - 18:25) — Auditório"
-    name: "Palestra Acadêmica"
-    title: "O futuro da computação de alto desempenho é sustentável ou insustentável?"
-    abstract: "A crescente demanda por poder computacional tem levado a avanços significativos na computação de alto desempenho (HPC). No entanto, esse crescimento resulta em um aumento expressivo no consumo energético e na emissão de CO₂, tornando a sustentabilidade um desafio fundamental para o setor. O equilíbrio entre desempenho computacional e eficiência energética é uma questão crítica, especialmente diante da escalabilidade dos sistemas e da necessidade de otimização de recursos. Assim, esta palestra apresenta uma análise do cenário atual da sustentabilidade em HPC, abordando os principais desafios técnicos para a redução do consumo energético em centros de dados, bem como a necessidade de estratégias avançadas para refrigeração e gestão de recursos computacionais. Serão discutidas técnicas emergentes para otimização da eficiência computacional e mitigação do impacto ambiental, incluindo abordagens arquiteturais, algoritmos de gerenciamento dinâmico de energia e práticas de desenvolvimento voltadas para a redução do consumo de recursos."
+    date: "TBD"
+    name: "TBD"
+    title: "TBD"
+    abstract: "TBD"
     speaker:
-      name: "Arthur Francisco Lorenzon"
-      bio: " - Doutor em Ciência da Computação pela Universidade Federal do Rio Grande do Sul (UFRGS), Porto Alegre, desde 2018. Atuou como pesquisador visitante em áreas correlatas em diversas instituições de ensino e pesquisa, incluindo Delft University of Technology, Oak Ridge National Laboratory e Barcelona Supercomputing Center. Sua tese de doutorado foi escolhida como a melhor tese na área de arquitetura de computadores e computação de alto desempenho no WSCAD-CTD, em 2018. Atualmente, integra o corpo docente do Instituto de Informática da UFRGS, orientando alunos de mestrado e doutorado no Programa de Pós-Graduação em Computação (PPGC). Desenvolve atividades de pesquisa na área de computação de alto desempenho, com foco no desenvolvimento de soluções para otimizar o uso dos recursos computacionais."
-      photo: "lorenzon.jpeg"
-
-  - id: P3
-    date: "23/04 (11:30 - 12:00) — Auditório"
-    name: "Palestra Industrial 1"
-    title: "Big Data pela perspectiva HPCC Systems"
-    abstract: "A plataforma HPCC Systems de código aberto utiliza arquitetura de dados distribuída e uma metodologia de processamento paralelo para trabalhar com grandes conjuntos de dados. O pipeline de dados na plataforma acompanha os dados desde a origem até a sua ingestão no cluster Thor, onde eles são refinados através de limpeza e padronização dos dados e, em seguida, enriquecidos, para depois, serem disponibilizados para aplicações de consulta em tempo real hospedadas no cluster Roxie. Em conjunto com essas duas arquiteturas de clusters e, compondo o chamado Power Trio, se faz presente a linguagem ECL, sendo a única linguagem necessária para expressar algoritmos de dados em toda a plataforma HPCC Systems. No cluster Thor, a linguagem ECL expressa workflows de dados que consistem em carregamento dados, transformação, vinculação, indexação etc. No cluster Roxie, a linguagem ECL define serviços de consultas de dados. A linguagem ECL é implicitamente paralela, portanto, o mesmo código ECL desenvolvido para ser executado em um cluster de nó único pode ser executado com a mesma facilidade em um cluster com centenas de nós. O programador não precisa se preocupar em implementar a paralelização, e a linguagem ECL possui uma função otimizadora que garante o melhor desempenho para uma arquitetura específica. Integrado à linguagem ECL encontram-se disponíveis diversas bibliotecas de Machine Learning aplicáveis às várias categorias de aprendizado de máquina, onde cada algoritmo tem suas próprias peculiaridades, as quais devem ser levadas em consideração para maximizar a precisão preditiva, tendo em conta que todos os bundles operam de maneira muito semelhante, com algumas variações menores. Por esses motivos, é muito importante que não seja utilizada a exploração de Machine Learning para produzir produtos ou reivindicar habilidades sem antes consultar a documentação que acompanha cada bundle, a fim de usá-lo de forma efetiva. Finalmente, objetivando demonstrar o uso de algoritmos de Aprendizado de Máquina na plataforma HPCC Systems, será apresentado um estudo de caso durante a realização do Minicurso dentro da programação do ERAD-RS 2025."
-    speaker:
-      name: "Alysson Oliveira"
-      bio: " - Engenheiro de software da LexisNexis Risk Solutions. Sua principal atuação gira em torno do suporte e desenvolvimento de programas de treinamento para a plataforma HPCC Systems no Brasil, abrangendo o público acadêmico, pesquisadores e profissionais da área da computação e de dados. Também buscar estabelecer parcerias com universidades a fim de oferecer aos alunos de graduação a oportunidade de trabalhar em projetos científicos, assim como oferecer mentoria para alunos de graduação e pós graduação."
-      photo: "alysson.jpeg"
-
-  - id: P4
-    date: "23/04 (12:00 - 12:30) — Auditório"
-    name: "Palestra Industrial 2"
-    title: "HPC & AI tendências para P&D"
-    abstract: "A palestra “HPC & AI: Tendências para P&D” aborda como as tecnologias de Computação de Alto Desempenho (HPC) e Inteligência Artificial (AI) estão transformando a pesquisa e desenvolvimento em diversos setores. Serão discutidas as principais tendências, aplicações práticas e os caminhos para instituições e empresas se prepararem para esse novo cenário tecnológico."
-    speaker:
-      name: "Emerson Fusada"
-      bio: " - "
-      photo: "Branco.png"
-
-  - id: P5
-    date: "24/04 (11:30 - 12:30) — Auditório"
-    name: "Palestra Industrial 3"
-    title: "HPC sem MiMiMi - Nos Bastidores do HPC: Desafios e Realidades na Administração de Clusters de Alto Desempenho"
-    abstract: "A computação de alto desempenho (HPC) é frequentemente apresentada através de seus resultados impressionantes e casos de sucesso. No entanto, por trás desses números existe uma complexa realidade operacional que raramente é discutida. Esta palestra mergulha no dia a dia da administração de clusters HPC, revelando os desafios práticos e as situações reais que administradores enfrentam. Abordaremos aspectos críticos como o gerenciamento de recursos em ambientes multiusuário, onde demandas conflitantes e prioridades diversas precisam ser constantemente equilibradas. Discutiremos os desafios de manutenção da infraestrutura, desde a gestão térmica e energética até a resolução de problemas de hardware.."
-    speaker:
-      name: "Guilherme Friol"
-      bio: " - Especialista em computação com anos de experiência em ambientes computacionais de alta demanda, virtualização e HPC. Atua como consultor em arquitetura e otimização de sistemas de alto desempenho. Desenvolveu projetos relevantes junto a grandes instituições de pesquisa e notórios nomes da computação nacional em machine learning e redes neurais. Entre os projetos estão: Predição de Inibidores de Protease de Cisteína para Agentes Tripanocidas e Câncer (USP); Simulação de controle de veículo espacial e orientação de órbita (LAC-INPE); Pesquisa sobre plasmas astrofísicos e turbulências espaciais (ITA); Pesquisa em Astrofísica e física molecular (UNIVAP), entre outros. "
-      photo: "Guilherme_Friol.png"
-
-  - id: P6
-    date: "24/04 (18:30 - 19:00) — Auditório"
-    name: "Palestra Industrial 4"
-    title: "SDC + Intel: Potência em HPC para desafios reais"
-    abstract: "Nesta palestra, a SDC apresenta, em parceria com a Intel®, como soluções de hardware de alto desempenho estão sendo aplicadas a desafios reais em HPC (High Performance Computing). Serão abordados conceitos de arquiteturas escaláveis, uso de processadores Intel Xeon® e integração com tecnologias emergentes. Também serão compartilhadas experiências da SDC em projetos no Brasil, demonstrando como o mercado e a área de pesquisa podem se conectar com esse ecossistema de inovação e transformação digital."
-    speaker:
-      name: "Ricardo Marchioni"
-      bio: "- Profissional com sólida atuação no setor de tecnologia, integrando áreas Comercial Técnica e de Produtos. Experiência em soluções de alto desempenho como automação, mini PCs, servidores e Storages. Participação em projetos, integração de tecnologias e desenvolvimento de negócios B2B. Perfil inovador, com foco em transformação digital e visão estratégica – alinhado ao ecossistema tecnológico promovido pela SDC em parceria com Intel®, Supermicro, Toshiba e outras líderes globais."
-      photo: "ricardo_sdc.jpeg" 
-
-  - id: P7
-    date: "25/04 (11:30 - 12:00) — Auditório"
-    name: "Palestra Industrial 5"
-    title: "HPE HPC-AI Supercomputing "
-    abstract: "Vamos explorar a liderança mundial da HPE em Computação de Alto Desempenho e Inteligência Artificial, reforçando o posicionamento da HPE no Top500 List, apresentar os recentes casos de sucesso com o Supercomputadores HPE CRAY EX, apresentar o portfólio de HPC/AI e as opções de refrigeração para cada tipo de infraestrutura."
-    speaker:
-      name: "Mônica A. Costa"
-      bio: " - Bacharel em Engenharia Eletrônica, com Pós-graduação em Estratégia e Gestão Empresarial e Pós-graduação em Transformação Digital pela PUC-Rio, possui mais de 30 anos de experiência em Computação de Alto Desempenho, iniciando sua carreira na Control Data Corporation (CDC) como Engenheira de Suporte de mainframes CDC. Na década de 1990 a Silicon Graphics International (SGI) se estabeleceu no Brasil e incorporou as atividades da CDC, que já utilizava workstations SGI como console dos mainframes, e desde então Mônica Costa passou a integrar o time de Engenheiros de Suporte/Vendas da SGI, por onde permaneceu por 25 anos. Com a incorporação da SGI pela Hewlett Packard Enterprise (HPE) em 2017 assumiu a posição de Especialista em Computação de Alto Desempenho e Inteligência Artificial, sendo responsável por HPC/AI para a América Latina."
-      photo: "MonicaCosta.jpg"
+      name: "Paulo Ricardo Lisboa de Almeida"
+      bio: " - Possui graduação em Engenharia da Computação pela Universidade Estadual de Ponta Grossa (2011), Mestrado em Informática (2013) e Doutorado em Ciência da Computação (2018), ambos pela Universidade Federal do Paraná. Atualmente é professor do Departamento de Informática da Universidade Federal do Paraná. Principais interesses de pesquisa: Reconhecimento de Padrões, Cidades Inteligentes, Seleção Dinâmica de Classificadores e Concept Drift."
+      photo: "equipe-Paulo-Almeida.png"
 

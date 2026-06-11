@@ -1,19 +1,1 @@
 sessions:
-  - id: "WHPC1"
-    title: "Painel: Desafios na jornada acadêmica e na carreira de computação: como conciliar a vida pessoal e a profissional?"
-    date: "24/04 (14:00 - 16:00) — Auditório"
-    description: "O WHPC/ERAD-RS 2025 é um fórum regional onde mulheres atuantes na área de HPC e áreas afins compartilham seus desafios na jornada acadêmica e na carreira de computação. Nesta edição, vamos abordar as dificuldades de conciliar a vida pessoal e a profissional na computação, área que é tão competitiva e que sempre está repleta de novidades. Se você é estudante de algum curso de Computação, participe do fórum e venha trocar experiências! 24/04 (14:00 - 16:00) — Auditório"
-    speakers:
-      - name: "Márcia Pasin (Moderadora)"
-        affil: "Universidade Federal de Santa Maria"
-        bio: 'Marcia Pasin é Professora da Universidade Federal de Santa Maria desde 2004, com interesse atual de pesquisa nas áreas de sistemas distribuídos e Internet das Coisas. É mestre e doutora em Ciência da Computação pela UFRGS e bacharel em Informática pela UFSM. Tem participado ativamente e colaborado com a organização das ERADs há mais de 10 anos, destacando a organização geral do evento de Gramado-RS (2015), bem como a coordenação de edições passadas do Fórum de IC.'
-        photo: "MarciaPasin.jpg"
-      - name: "Gabriela Stein"
-        affil: "Universidade Estadual do Oeste do Paraná"
-        bio: 'Gabriela Stein, graduada em Ciência da Computação pela UFPR, mestre em Ciência da Computação pela Unioeste e doutoranda no programa de pós-graduação em informática da UFPR. atualmente atua como Professora Assistente na Universidade Estadual do Oeste do Paraná. Seus interesses são Sistemas Distribuídos, Tolerância a Falhas e Segurança em Redes de Computadores.'
-        photo: "gabriela_stein.jpeg"
-      - name: "Mônica A. Costa"
-        affil: "HPE"
-        bio: 'Mônica Costa é bacharel em Engenharia Eletrônica, com Pós-graduação em Estratégia e Gestão Empresarial e Pós-graduação em Transformação Digital pela PUC-Rio, possui mais de 30 anos de experiência em Computação de Alto Desempenho, iniciando sua carreira na Control Data Corporation (CDC) como Engenheira de Suporte de mainframes CDC. Na década de 1990 a Silicon Graphics International (SGI) se estabeleceu no Brasil e incorporou as atividades da CDC, que já utilizava workstations SGI como console dos mainframes, e desde então Mônica Costa passou a integrar o time de Engenheiros de Suporte/Vendas da SGI, por onde permaneceu por 25 anos. Com a incorporação da SGI pela Hewlett Packard Enterprise (HPE) em 2017 assumiu a posição de Especialista em Computação de Alto Desempenho e Inteligência Artificial, sendo responsável por HPC/AI para a América Latina. '
-        photo: "MonicaCosta.jpg"
-      
